@@ -3,3 +3,4 @@
  <dimen name="activity_verticle_margin">100dp</dimen>"
  <dimen name="activity_horizontal_margin">100dp</dimen>
 </resources>
+#color.xml and dimen.xml in values folder
